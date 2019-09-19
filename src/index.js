@@ -18,7 +18,7 @@ import VideoDetails from "./component/video_details";
 // import "../style/style.css";
 
 /*Creating const variable  */
-const API_KEY = "AIzaSyCWYBlZXOd3O69LIsjxRWxzjRgL9D8atHo";
+const API_KEY = "AIzaSyB5ZQJ4GRn-iDxVPv3tbqOGKu7J6N9rbJ4";
 
 export class App extends React.Component {
   constructor() {
